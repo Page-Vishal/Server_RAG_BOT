@@ -1,2 +1,3 @@
 # Server_RAG_BOT
-The flask server for RAG_Bot
+
+This repo contains the flask server for the PDF reading Bot.
